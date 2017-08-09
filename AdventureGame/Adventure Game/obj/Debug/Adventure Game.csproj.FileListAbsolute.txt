@@ -1,0 +1,6 @@
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe.config
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\bin\Debug\Adventure Game.exe
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\bin\Debug\Adventure Game.pdb
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\obj\Debug\Adventure Game.csprojResolveAssemblyReference.cache
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\obj\Debug\Adventure Game.exe
+c:\users\robert melias laptop\documents\visual studio 2017\Projects\Adventure Game\Adventure Game\obj\Debug\Adventure Game.pdb
